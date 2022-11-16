@@ -115,7 +115,7 @@ const Projects = () => {
               <p className=" text-xl font-playfair">Cat's Swords</p>
               <p className="mt-7">
                 Cat's Swords is a collection of 3000 NFTs, in which I completed
-                all production process by <b>myself</b> . Elements being:{" "}
+                all production process by <b>myself</b>. Elements being:{" "}
                 <b>
                   DApp, Smart contract, Website, art creation and testing,
                   social media, deployment on the blockchain.
