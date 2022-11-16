@@ -19,7 +19,7 @@ const Contact = () => {
 
   return (
     <section id="contact" className="contact py-48">
-      <div className="md:flex md:justify-between md:gap-16 mt-32">
+      <div className="md:flex md:justify-between md:gap-16 ">
         <motion.div
           className="md:w-1/2"
           initial="hidden"
@@ -133,7 +133,7 @@ const Contact = () => {
             hidden: { opacity: 0, y: 50 },
             visible: { opacity: 1, y: 0 },
           }}
-          className="xs:mt-10 md:mt-0 md:gap-16  flex justify-center "
+          className="xs:mt-20 md:mt-0 md:gap-16  flex justify-center "
         >
           <img
             className="max-h-[300px] md:max-h-[400px]"

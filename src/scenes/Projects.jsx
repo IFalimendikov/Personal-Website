@@ -15,7 +15,7 @@ const Projects = () => {
     <section id="projects" className="pt-48 pb-48 ">
       {/* HEADINGS */}
       <motion.div
-        className="md:w-2/5 mx-auto text-center"
+        className="md:w-2/5 mx-auto md:text-center"
         initial="hidden"
         whileInView="visible"
         viewport={{ once: true, amount: 0.5 }}
@@ -29,8 +29,8 @@ const Projects = () => {
           <p className="font-playfair font-semibold text-4xl">
             <span className="text-orange">Projects</span>
           </p>
-          <div className="flex justify-center mt-5">
-            <LineGradient width="w-2/3" />
+          <div className="flex md:justify-center mt-5">
+            <LineGradient width="w-1/2" />
           </div>
         </div>
         <p className="mt-10 mb-10 text-lg">

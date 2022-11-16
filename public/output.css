@@ -1251,6 +1251,10 @@ body,
     margin-top: 2.5rem;
   }
 
+  .xs\:mt-20{
+    margin-top: 5rem;
+  }
+
   .xs\:font-semibold{
     font-weight: 600;
   }
@@ -1307,6 +1311,10 @@ body,
     width: 40%;
   }
 
+  .md\:w-2\/3{
+    width: 66.666667%;
+  }
+
   .md\:max-w-\[400px\]{
     max-width: 400px;
   }
@@ -1319,12 +1327,24 @@ body,
     justify-content: flex-start;
   }
 
+  .md\:justify-center{
+    justify-content: center;
+  }
+
   .md\:justify-between{
     justify-content: space-between;
   }
 
   .md\:gap-16{
     gap: 4rem;
+  }
+
+  .md\:gap-10{
+    gap: 2.5rem;
+  }
+
+  .md\:text-center{
+    text-align: center;
   }
 
   .md\:text-start{
