@@ -76,7 +76,7 @@ const Projects = () => {
             className="relative p-2 "
           >
             <div
-              className={`absolute max-w-[400px] overflow-auto  h-full w-full lg max-h-[400px] opacity-0 hover:opacity-95 transition duration-500
+              className={`absolute max-w-[400px]  h-full w-full lg max-h-[400px] opacity-0 hover:opacity-95 transition duration-500
     bg-grey z-30 flex flex-col justify-center items-center text-center p-10 text-deep-blue rounded-3xl`}
             >
               <p className="text-2xl font-playfair">uwucrew</p>
@@ -109,7 +109,7 @@ const Projects = () => {
             className="relative p-2 "
           >
             <div
-              className={`absolute max-w-[400px] overflow-auto  h-full w-full lg max-h-[400px] opacity-0 hover:opacity-95 transition duration-500
+              className={`absolute max-w-[400px]  h-full w-full lg max-h-[400px] opacity-0 hover:opacity-95 transition duration-500
     bg-grey z-30 flex flex-col justify-center items-center  text-center p-10 text-deep-blue rounded-3xl`}
             >
               <p className=" text-xl font-playfair">Cat's Swords</p>

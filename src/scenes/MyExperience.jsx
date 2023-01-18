@@ -53,16 +53,16 @@ const MyExperience = () => {
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-purple absolute right-0 top-0 z-[-1]" />
           </div>
-          <p className="mt-5  text-lg">
+          <p className="mt-5 text-lg">
             As a developer I offer full-stack Web3 production, including: Smart contract,
             DApp, Website, Asset testing. I specialize in production of NFTs and
             DeFi.
           </p>
         </motion.div>
 
-        {/* ADVISOR */}
+        {/* ADVISER */}
         <motion.div
-          className="md:w-1/3  mt-10"
+          className="md:w-1/3 mt-10"
           initial="hidden"
           whileInView="visible"
           viewport={{ once: true, amount: 0.5 }}
@@ -72,13 +72,13 @@ const MyExperience = () => {
             visible: { opacity: 1, y: 0 },
           }}
         >
-          <div className="relative  h-32">
+          <div className="relative h-32">
             <div className="z-10">
               <p className="font-playfair font-semibold text-3xl mt-3">
                 Adviser
               </p>
             </div>
-            <div className="w-1/2 md:w-3/4 overflow-auto h-32 bg-orange absolute right-0 top-0 z-[-1]" />
+            <div className="w-1/2 md:w-3/4 h-32 bg-orange absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5 text-lg ">
             I worked as an advisor for 3 projects. 6+ years in the Blockchain
