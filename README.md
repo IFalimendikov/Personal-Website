@@ -1,3 +1,1 @@
-# React Portfolio App
-
-Completed React Admin Dashboard Repo
+This is the repo for my personal website/portfolio. Feel free to reuse the code for your own projects!
