@@ -31,7 +31,7 @@ const SocialMediaIcons = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <img alt="github-link" src="../assets/github.png" />
+        <img alt="github-link" src="C:\Users\Bombardire\Desktop\Website\Personal_Website-1\src\assets\github.png" />
       </a>
     </div>
   );
