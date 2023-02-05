@@ -27,11 +27,11 @@ const SocialMediaIcons = () => {
       </a>
       <a
         className="hover:opacity-50 transition duration-500"
-        href="https://www.instagram.com/vanyan_af/"
+        href="https://github.com/IFalimendikov"
         target="_blank"
         rel="noreferrer"
       >
-        <img alt="instagram-link" src="../assets/instagram.png" />
+        <img alt="github-link" src="../assets/github.png" />
       </a>
     </div>
   );
